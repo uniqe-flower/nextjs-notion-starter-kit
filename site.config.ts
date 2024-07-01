@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'uniqe-flower的个人博客'，
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://www.notion.so/Getting-Started-342b56502672454dafc11806da174efa',
   author: 'uniqe-flower',
 
   // open graph metadata (optional)
